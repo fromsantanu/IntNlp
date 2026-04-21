@@ -6,72 +6,72 @@
 
 ### 🟢 Level 1: Foundations (Beginner)
 
-* [Introduction to NLP](#introduction-to-nlp)
-* [Why NLP is Difficult](#why-nlp-is-difficult)
-* [Basic Text Processing](#basic-text-processing)
-* [Basic Linguistics for NLP](#basic-linguistics-for-nlp)
-* [Simple NLP Tasks](#simple-nlp-tasks)
+* [Introduction to NLP](https://github.com/fromsantanu/IntNlp/blob/main/Level1/p01.md)
+* [Why NLP is Difficult](https://github.com/fromsantanu/IntNlp/blob/main/Level1/p02.md)
+* [Basic Text Processing](https://github.com/fromsantanu/IntNlp/blob/main/Level1/p03.md)
+* [Basic Linguistics for NLP](https://github.com/fromsantanu/IntNlp/blob/main/Level1/p04.md)
+* [Simple NLP Tasks](https://github.com/fromsantanu/IntNlp/blob/main/Level1/p05.md)
 
 ---
 
 ### 🟡 Level 2: Classical NLP (Intermediate)
 
-* [Text Preprocessing Pipeline](#text-preprocessing-pipeline)
-* [Text Representation (BoW, N-grams, TF-IDF)](#text-representation-bow-n-grams-tf-idf)
-* [Basic Machine Learning for NLP](#basic-machine-learning-for-nlp)
-* [Language Modeling (Basics)](#language-modeling-basics)
-* [Evaluation Metrics](#evaluation-metrics)
+* [Text Preprocessing Pipeline](https://github.com/fromsantanu/IntNlp/blob/main/Level2/p01.md)
+* [Text Representation (BoW, N-grams, TF-IDF)](https://github.com/fromsantanu/IntNlp/blob/main/Level2/p02.md)
+* [Basic Machine Learning for NLP](https://github.com/fromsantanu/IntNlp/blob/main/Level2/p03.md)
+* [Language Modeling (Basics)](https://github.com/fromsantanu/IntNlp/blob/main/Level2/p04.md)
+* [Evaluation Metrics](https://github.com/fromsantanu/IntNlp/blob/main/Level2/p05.md)
 
 ---
 
 ### 🟠 Level 3: Advanced NLP (Neural Methods)
 
-* [Word Embeddings (Word2Vec, GloVe, FastText)](#word-embeddings-word2vec-glove-fasttext)
-* [Sequence Models (RNN, LSTM, GRU)](#sequence-models-rnn-lstm-gru)
-* [Advanced NLP Tasks (NER, POS Tagging, Parsing)](#advanced-nlp-tasks-ner-pos-tagging-parsing)
-* [Sequence-to-Sequence Models (Seq2Seq)](#sequence-to-sequence-models-seq2seq)
-* [Attention Mechanism](#attention-mechanism)
+* [Word Embeddings (Word2Vec, GloVe, FastText)](https://github.com/fromsantanu/IntNlp/blob/main/Level3/p01.md)
+* [Sequence Models (RNN, LSTM, GRU)](https://github.com/fromsantanu/IntNlp/blob/main/Level3/p02.md)
+* [Advanced NLP Tasks (NER, POS Tagging, Parsing)](https://github.com/fromsantanu/IntNlp/blob/main/Level3/p03.md)
+* [Sequence-to-Sequence Models (Seq2Seq)](https://github.com/fromsantanu/IntNlp/blob/main/Level3/p04.md)
+* [Attention Mechanism](https://github.com/fromsantanu/IntNlp/blob/main/Level3/p05.md)
 
 ---
 
 ### 🔵 Level 4: Modern NLP (Transformers Era)
 
-* [Transformers Architecture](#transformers-architecture)
-* [Pretrained Language Models (BERT, GPT, T5)](#pretrained-language-models-bert-gpt-t5)
-* [Modern Tokenization Techniques](#modern-tokenization-techniques)
-* [Fine-tuning vs Prompt Engineering](#fine-tuning-vs-prompt-engineering)
-* [Modern NLP Tasks (Generation, QA, Summarization)](#modern-nlp-tasks-generation-qa-summarization)
+* [Transformers Architecture](https://github.com/fromsantanu/IntNlp/blob/main/Level4/p01.md)
+* [Pretrained Language Models (BERT, GPT, T5)](https://github.com/fromsantanu/IntNlp/blob/main/Level4/p02.md)
+* [Modern Tokenization Techniques](https://github.com/fromsantanu/IntNlp/blob/main/Level4/p03.md)
+* [Fine-tuning vs Prompt Engineering](https://github.com/fromsantanu/IntNlp/blob/main/Level4/p04.md)
+* [Modern NLP Tasks (Generation, QA, Summarization)](https://github.com/fromsantanu/IntNlp/blob/main/Level4/p05.md)
 
 ---
 
 ### 🔴 Level 5: Specialized & Applied NLP
 
-* [Information Retrieval Systems](#information-retrieval-systems)
-* [Conversational AI & Chatbots](#conversational-ai--chatbots)
-* [Multilingual NLP](#multilingual-nlp)
-* [Speech + NLP Integration (ASR, TTS)](#speech--nlp-integration-asr-tts)
-* [Domain-Specific NLP (Healthcare, Legal, Finance)](#domain-specific-nlp-healthcare-legal-finance)
+* [Information Retrieval Systems](https://github.com/fromsantanu/IntNlp/blob/main/Level5/p01.md)
+* [Conversational AI & Chatbots](https://github.com/fromsantanu/IntNlp/blob/main/Level5/p02.md)
+* [Multilingual NLP](https://github.com/fromsantanu/IntNlp/blob/main/Level5/p03.md)
+* [Speech + NLP Integration (ASR, TTS)](https://github.com/fromsantanu/IntNlp/blob/main/Level5/p04.md)
+* [Domain-Specific NLP (Healthcare, Legal, Finance)](https://github.com/fromsantanu/IntNlp/blob/main/Level5/p05.md)
 
 ---
 
 ### ⚫ Level 6: Research & Cutting Edge NLP
 
-* [Large Language Models (LLMs)](#large-language-models-llms)
-* [Alignment, Bias & Safety](#alignment-bias--safety)
-* [Retrieval-Augmented Generation (RAG)](#retrieval-augmented-generation-rag)
-* [Multimodal NLP Systems](#multimodal-nlp-systems)
-* [Efficient NLP (Compression, Quantization)](#efficient-nlp-compression-quantization)
-* [Evaluation Challenges & Benchmarks](#evaluation-challenges--benchmarks)
+* [Large Language Models (LLMs)](https://github.com/fromsantanu/IntNlp/blob/main/Level6/p01.md)
+* [Alignment, Bias & Safety](https://github.com/fromsantanu/IntNlp/blob/main/Level6/p02.md)
+* [Retrieval-Augmented Generation (RAG)](https://github.com/fromsantanu/IntNlp/blob/main/Level6/p03.md)
+* [Multimodal NLP Systems](https://github.com/fromsantanu/IntNlp/blob/main/Level6/p04.md)
+* [Efficient NLP (Compression, Quantization)](https://github.com/fromsantanu/IntNlp/blob/main/Level6/p05.md)
+* [Evaluation Challenges & Benchmarks](https://github.com/fromsantanu/IntNlp/blob/main/Level6/p06.md)
 
 ---
 
 ### 🧠 Level 7: Mathematical & Theoretical NLP
 
-* [Probability in NLP](#probability-in-nlp)
-* [Optimization Techniques](#optimization-techniques)
-* [Information Theory (Entropy, Perplexity)](#information-theory-entropy-perplexity)
-* [Deep Learning Internals](#deep-learning-internals)
-* [Graph-based NLP & Knowledge Graphs](#graph-based-nlp--knowledge-graphs)
+* [Probability in NLP](https://github.com/fromsantanu/IntNlp/blob/main/Level7/p01.md)
+* [Optimization Techniques](https://github.com/fromsantanu/IntNlp/blob/main/Level7/p02.md)
+* [Information Theory (Entropy, Perplexity)](https://github.com/fromsantanu/IntNlp/blob/main/Level7/p03.md)
+* [Deep Learning Internals](https://github.com/fromsantanu/IntNlp/blob/main/Level7/p04.md)
+* [Graph-based NLP & Knowledge Graphs](https://github.com/fromsantanu/IntNlp/blob/main/Level7/p05.md)
 
 ---
 
