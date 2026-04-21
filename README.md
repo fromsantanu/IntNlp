@@ -77,13 +77,13 @@
 
 ## 🚀 Suggested Learning Path
 
-* [Step-by-Step Learning Roadmap](#step-by-step-learning-roadmap)
+* [Step-by-Step Learning Roadmap](https://github.com/fromsantanu/IntNlp/blob/main/Misc/p01.md)
 
 ---
 
 ## 🎯 Special Focus Areas
 
-* [Healthcare NLP & Clinical Text Analysis](#healthcare-nlp--clinical-text-analysis)
+* [Healthcare NLP & Clinical Text Analysis](https://github.com/fromsantanu/IntNlp/blob/main/Misc/p02.md)
 
 ---
 
