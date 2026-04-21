@@ -89,8 +89,8 @@
 
 ## 🛠️ Projects & Practice (Optional Section)
 
-* [Beginner Projects](#beginner-projects)
-* [Intermediate Projects](#intermediate-projects)
-* [Advanced Projects](#advanced-projects)
+* [Beginner Projects](https://github.com/fromsantanu/IntNlp/blob/main/Projects/p01.md)
+* [Intermediate Projects](https://github.com/fromsantanu/IntNlp/blob/main/Projects/p02.md)
+* [Advanced Projects](https://github.com/fromsantanu/IntNlp/blob/main/Projects/p03.md)
 
 ---
